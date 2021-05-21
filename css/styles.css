@@ -7,3 +7,17 @@
 	position: relative;
 }
 
+.title span {
+	margin-right: 5px;
+}
+
+.fa-address-card,
+.fa-user-friends,
+.fa-image,
+.fa-wordpress{
+	font-size: 30px;
+}
+
+.title h2 {
+	display: inline-block;
+}
